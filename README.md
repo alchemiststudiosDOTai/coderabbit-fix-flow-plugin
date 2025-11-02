@@ -64,7 +64,7 @@ Code reviews generate valuable feedback, but acting on that feedback systematica
 
 ```bash
 # Add the marketplace
-/plugin marketplace add tunahorse/coderabbit-fix-flow-plugin
+/plugin marketplace add alchemiststudiosDOTai/coderabbit-fix-flow-plugin
 
 # Install the plugin
 /plugin install coderabbit-fix-flow
@@ -238,7 +238,7 @@ MIT License - See LICENSE file for details
 
 ## Links
 
-- **GitHub**: [tunahorse/coderabbit-fix-flow-plugin](https://github.com/tunahorse/coderabbit-fix-flow-plugin)
+- **GitHub**: [alchemiststudiosDOTai/coderabbit-fix-flow-plugin](https://github.com/alchemiststudiosDOTai/coderabbit-fix-flow-plugin)
 - **Exa AI**: [dashboard.exa.ai](https://dashboard.exa.ai)
 - **CodeRabbit**: [coderabbit.ai](https://coderabbit.ai)
 - **Sequential Thinking MCP**: [@modelcontextprotocol/server-sequential-thinking](https://www.npmjs.com/package/@modelcontextprotocol/server-sequential-thinking)
@@ -247,8 +247,8 @@ MIT License - See LICENSE file for details
 
 For issues or questions:
 1. Check the [Troubleshooting](#troubleshooting) section
-2. Review [closed issues](https://github.com/tunahorse/coderabbit-fix-flow-plugin/issues?q=is%3Aissue+is%3Aclosed)
-3. Open a [new issue](https://github.com/tunahorse/coderabbit-fix-flow-plugin/issues/new)
+2. Review [closed issues](https://github.com/alchemiststudiosDOTai/coderabbit-fix-flow-plugin/issues?q=is%3Aissue+is%3Aclosed)
+3. Open a [new issue](https://github.com/alchemiststudiosDOTai/coderabbit-fix-flow-plugin/issues/new)
 
 ---
 
