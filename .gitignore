@@ -33,3 +33,6 @@ tmp/
 dist/
 build/
 *.tsbuildinfo
+
+# Packaged skills
+*.zip
