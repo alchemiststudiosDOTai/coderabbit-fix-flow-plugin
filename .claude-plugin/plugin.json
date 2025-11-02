@@ -1,0 +1,23 @@
+{
+  "name": "coderabbit-fix-flow",
+  "description": "Systematic workflow for processing CodeRabbit code review feedback with MCP-powered analysis and fixes",
+  "version": "1.0.0",
+  "author": {
+    "name": "AlchemistStudios",
+    "email": "tunahorse@users.noreply.github.com"
+  },
+  "keywords": [
+    "code-review",
+    "coderabbit",
+    "type-safety",
+    "qa",
+    "mcp",
+    "exa",
+    "sequential-thinking",
+    "analysis"
+  ],
+  "category": "development",
+  "license": "MIT",
+  "homepage": "https://github.com/tunahorse/coderabbit-fix-flow-plugin",
+  "repository": "https://github.com/tunahorse/coderabbit-fix-flow-plugin"
+}

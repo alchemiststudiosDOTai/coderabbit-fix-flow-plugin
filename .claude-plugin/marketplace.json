@@ -1,0 +1,35 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "coderabbit-fix-flow-marketplace",
+  "version": "1.0.0",
+  "description": "Claude Code plugin marketplace for systematic CodeRabbit code review feedback processing",
+  "owner": {
+    "name": "AlchemistStudios",
+    "email": "tunahorse@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "coderabbit-fix-flow",
+      "description": "Systematic workflow for processing CodeRabbit code review feedback with MCP-powered analysis and fixes",
+      "version": "1.0.0",
+      "author": {
+        "name": "AlchemistStudios",
+        "email": "tunahorse@users.noreply.github.com"
+      },
+      "source": "./",
+      "category": "development",
+      "keywords": [
+        "code-review",
+        "coderabbit",
+        "type-safety",
+        "qa",
+        "mcp",
+        "exa",
+        "sequential-thinking"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/tunahorse/coderabbit-fix-flow-plugin",
+      "repository": "https://github.com/tunahorse/coderabbit-fix-flow-plugin"
+    }
+  ]
+}

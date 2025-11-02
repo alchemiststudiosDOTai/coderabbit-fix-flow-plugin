@@ -1,0 +1,13 @@
+{
+  "sequential-thinking": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+  },
+  "exa": {
+    "command": "npx",
+    "args": ["-y", "exa-mcp-server"],
+    "env": {
+      "EXA_API_KEY": "${EXA_API_KEY}"
+    }
+  }
+}
